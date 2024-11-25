@@ -41,7 +41,7 @@ public class controlador extends HttpServlet {
             out.println("</body>");
             out.println("</html>");
             
-            System.out.println("pruebas");
+            System.out.println("pruebdas");
         }
     }
 
