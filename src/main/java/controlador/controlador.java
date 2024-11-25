@@ -40,9 +40,13 @@ public class controlador extends HttpServlet {
             out.println("<h1>Servlet controlador at " + request.getContextPath() + "</h1>");
             out.println("</body>");
             out.println("</html>");
+            
+            System.out.println("s");
         }
     }
 
+    
+    
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
     /**
      * Handles the HTTP <code>GET</code> method.
